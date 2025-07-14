@@ -90,7 +90,7 @@ export const Projects = () => {
               Interested in working together?
             </h3>
             <p className="text-gray-300 mb-6">
-              I'm always open to discussing new opportunities and innovative projects
+              I&apos;m always open to discussing new opportunities and innovative projects
             </p>
             <a
               href="mailto:neerajvn1@gmail.com"
