@@ -68,7 +68,7 @@ export const Projects = () => {
                 description={project.description}
                 link={project.link}
                 type={project.type}
-                technologies={project.technologies}
+                technologies={Array.from(project.technologies)}
                 category={project.category}
               />
             </div>
